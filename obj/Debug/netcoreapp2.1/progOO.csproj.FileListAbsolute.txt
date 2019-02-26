@@ -1,0 +1,11 @@
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\bin\Debug\netcoreapp2.1\progOO.deps.json
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\bin\Debug\netcoreapp2.1\progOO.runtimeconfig.json
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\bin\Debug\netcoreapp2.1\progOO.runtimeconfig.dev.json
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\bin\Debug\netcoreapp2.1\progOO.dll
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\bin\Debug\netcoreapp2.1\progOO.pdb
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\obj\Debug\netcoreapp2.1\progOO.csprojAssemblyReference.cache
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\obj\Debug\netcoreapp2.1\progOO.csproj.CoreCompileInputs.cache
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\obj\Debug\netcoreapp2.1\progOO.AssemblyInfoInputs.cache
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\obj\Debug\netcoreapp2.1\progOO.AssemblyInfo.cs
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\obj\Debug\netcoreapp2.1\progOO.dll
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\obj\Debug\netcoreapp2.1\progOO.pdb
