@@ -45,4 +45,4 @@ Existen dos clases principales de tipos de diagramas: diagramas estructurales y 
 2.- Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones.
 
  Una maquina dispensadora en donde el usuario genere una solicitud, la maquina le responda dependiendo si su saldo es correcto o si hay existencia de productos.
- ![](https://drive.google.com/file/d/1hVZT9eA_4cVThD_wdVlchs3LOTPsYnY2/view?usp=sharing)
+ ![](https://drive.google.com/file/d/1hVZT9eA_4cVThD_wdVlchs3LOTPsYnY2/view?usp=sharing).
