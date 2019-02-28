@@ -1,0 +1,11 @@
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\Dado\bin\Debug\netcoreapp2.1\Dado.deps.json
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\Dado\bin\Debug\netcoreapp2.1\Dado.runtimeconfig.json
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\Dado\bin\Debug\netcoreapp2.1\Dado.runtimeconfig.dev.json
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\Dado\bin\Debug\netcoreapp2.1\Dado.dll
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\Dado\bin\Debug\netcoreapp2.1\Dado.pdb
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\Dado\obj\Debug\netcoreapp2.1\Dado.csprojAssemblyReference.cache
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\Dado\obj\Debug\netcoreapp2.1\Dado.csproj.CoreCompileInputs.cache
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\Dado\obj\Debug\netcoreapp2.1\Dado.AssemblyInfoInputs.cache
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\Dado\obj\Debug\netcoreapp2.1\Dado.AssemblyInfo.cs
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\Dado\obj\Debug\netcoreapp2.1\Dado.dll
+C:\Users\elegi\OneDrive\Escritorio\progOO\progOO\Dado\obj\Debug\netcoreapp2.1\Dado.pdb
